@@ -31,7 +31,7 @@ This project requires python (version 3.12 was used but another version should b
 (install the libraries here too, so tensorflow or tensorflow-gpu, tensorflow_addons, numpy, pandas, keras)\
 - install jupyter notebook\
  `pip3 install jupyter`
-- launch it and open the file generative_model_AU.ipynb\
+- launch it and open the file generative_model_.ipynb\
  `jupyter notebook`
 
 ## Maintainers
