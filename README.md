@@ -33,7 +33,7 @@ This project requires python (version 3.12 was used but another version should b
 - Create a virtual env \
  `python3 -m name /PATH`\
  `source name/bin/activate`\
-(install the libraries here too, so tensorflow or tensorflow-gpu, tensorflow_addons, numpy, pandas, keras)\
+(install the libraries here too, so tensorflow, tensorflow_addons, numpy, pandas, keras)
 - install jupyter notebook\
  `pip3 install jupyter`
 - launch it and open the file generative_model_.ipynb\
