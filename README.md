@@ -7,6 +7,7 @@
 ## Contents of this file
 
  - Introduction/ presentation
+ - Future
  - Requirements
  - Installation
  - Troubleshooting
@@ -17,6 +18,7 @@
 The intention behind this project is to experiment with State of the Art technologies and trying to link several fields, i.e AI, web development and blockchain technology.
 
 Tackling art and image creation through a GAN model and training it on a dataset constructed with abstract paintings of various painters.
+This part has been implemented.
 
 ## Future
 
