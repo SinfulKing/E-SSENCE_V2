@@ -16,8 +16,11 @@
 
 The intention behind this project is to experiment with State of the Art technologies and trying to link several fields, i.e AI, web development and blockchain technology.
 
-Tackling art and image creation through a Diffusion model based on abstract images, then getting an original title using several models (one for getting the features of the image and another one for adapting the title to its features), then adding this as a part of a library to be used on a web page, adding the capacity to generate
-pictures through the page itself and finally an option to store it on a blockchain (solana or ethereum).
+Tackling art and image creation through a GAN model and training it on a dataset constructed with abstract paintings of various painters.
+
+## Future
+
+In the future, various paths could be taken, first to try to implement diffusion models instead of a GAN, and then maybe make a web interface to access it online.
 
 ## Requirements
 
